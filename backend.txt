@@ -1,0 +1,18 @@
+backend/
+├── app.py
+├── models/
+│   ├── user.py
+│   ├── product.py
+│   └── recommendation.py
+├── services/
+│   ├── skin_analysis.py
+│   ├── recommendation_engine.py
+│   ├── chatbot_service.py
+│   └── image_processing.py
+├── ml/
+│   ├── skin_classifier.py
+│   ├── concern_detector.py
+│   └── recommendation_models.py
+└── utils/
+    ├── database.py
+    └── helpers.py
