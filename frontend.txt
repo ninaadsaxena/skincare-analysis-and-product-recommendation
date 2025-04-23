@@ -1,0 +1,28 @@
+src/
+├── components/
+│   ├── SkinAnalysis/
+│   │   ├── QuizAssessment.jsx
+│   │   ├── ImageUploader.jsx
+│   │   └── AnalysisResults.jsx
+│   ├── Recommendations/
+│   │   ├── ProductCard.jsx
+│   │   ├── ProductList.jsx
+│   │   └── FilterOptions.jsx
+│   ├── RoutineBuilder/
+│   │   ├── RoutineStep.jsx
+│   │   ├── MorningRoutine.jsx
+│   │   └── EveningRoutine.jsx
+│   └── UserProfile/
+│       ├── AllergiesForm.jsx
+│       ├── LifestyleFactors.jsx
+│       └── ProgressTracker.jsx
+├── services/
+│   ├── api.js
+│   └── authService.js
+├── pages/
+│   ├── Home.jsx
+│   ├── Analysis.jsx
+│   ├── Recommendations.jsx
+│   ├── RoutinePlanner.jsx
+│   └── Profile.jsx
+└── App.js
